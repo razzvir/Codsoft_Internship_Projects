@@ -1,5 +1,4 @@
-6th Sem Summer Internship
-# Web Development Internship README
+# 2024 Summer Internship README
 
 ## 🚀 Introduction
 **Internship Period:** 10th May 2024 - 10th June 2024  
@@ -62,6 +61,32 @@ This repository contains the work I completed during my web development internsh
 
 ## 📅 Week 3
 **Date:** 24th May 2024 - 30th May 2024  
+**Project:** Portfolio (Continued)  
+**Objective:** Add advanced features and complete the portfolio project.
+
+### Day-by-Day Progress
+- **Day 1: Adding Advanced Features**
+  - Implemented additional sections like blog posts or testimonials.
+  - Enhanced the "Projects" section with detailed case studies and images.
+
+- **Day 2: Improving SEO and Accessibility**
+  - Optimized the portfolio for search engines by adding meta tags and alt attributes.
+  - Ensured the website was accessible to users with disabilities by following WCAG guidelines.
+
+- **Day 3: Interactive Components**
+  - Added interactive components like carousels, modals, and animated scrolls using JavaScript.
+  - Ensured smooth user experience with minimal loading times.
+
+- **Day 4: Integrating Social Media and Contact Forms**
+  - Integrated social media links and icons.
+  - Developed a functional contact form with form validation and email sending capabilities.
+
+- **Day 5: Final Review and Deployment**
+  - Conducted a thorough review of the portfolio, fixing any bugs or issues.
+  - Deployed the updated portfolio to a web server and ensured it was fully functional.
+
+## 🌟 Week 4
+**Date:** 31st May 2024 - 10th June 2024  
 **Project:** Calculator  
 **Objective:** Create a functional calculator using HTML, CSS, and JavaScript.
 
@@ -89,9 +114,11 @@ This repository contains the work I completed during my web development internsh
 ## 📋 Conclusion
 Throughout this internship, I gained valuable experience in web development, enhancing my skills in HTML, CSS, and JavaScript. Each project helped me understand different aspects of front-end development, from creating responsive designs to implementing interactive functionalities. 
 
+
 ## 📚 Additional Resources
 - **HTML5:** Structured the content and elements of the projects.
 - **CSS & SASS:** Styled the projects to improve visual appeal and user experience.
 - **JavaScript:** Added interactivity and dynamic functionality to the projects.
 - **Bootstrap:** Provided a responsive and modern design framework.
+
 
